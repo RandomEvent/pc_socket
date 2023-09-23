@@ -1,0 +1,6 @@
+node_modules/
+.env
+deploy.sh
+.DS_Store
+
+*secret*.js
